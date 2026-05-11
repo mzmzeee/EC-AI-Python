@@ -18,3 +18,7 @@ latex/
 # OS files
 .DS_Store
 Thumbs.db
+books.txt
+sample_plot.png
+sample.txt
+numbers.txt
