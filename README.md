@@ -37,6 +37,67 @@ Sample datasets for Module 3 exercises and mini-project:
 ### Arabic Resources
 - [Python Arabic Language Resources](https://wiki.python.org/moin/ArabicLanguage.html)
 
+## Setup (Using `uv`)
+
+This project uses [`uv`](https://docs.astral.sh/uv/) for fast Python package management and virtual environments.
+
+### 1. Install `uv`
+
+**macOS / Linux:**
+```bash
+curl -LsSf https://astral.sh/uv/install.sh | sh
+```
+
+**Windows:**
+```powershell
+powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
+```
+
+For other methods (pip, Homebrew, etc.), see the [official uv installation guide](https://docs.astral.sh/uv/getting-started/installation/).
+
+### 2. Create a Virtual Environment
+
+From the project root (where this `README.md` is):
+```bash
+uv venv --python 3.14
+```
+
+This creates a `.venv/` directory with a self-contained Python interpreter.
+
+### 3. Install Dependencies
+
+```bash
+uv pip install numpy pandas matplotlib scikit-learn nbconvert nbformat ipykernel
+```
+
+**What each package is for:**
+| Package | Purpose |
+|---------|---------|
+| `numpy` | Numerical computing (arrays, matrices, math operations) |
+| `pandas` | Data manipulation and analysis (DataFrames) |
+| `matplotlib` | Data visualization and plotting |
+| `scikit-learn` | Machine learning utilities (used in Regression Exercise) |
+| `nbconvert` | Convert notebooks to other formats |
+| `nbformat` | Read/write Jupyter notebook files |
+| `ipykernel` | Jupyter kernel for running notebooks in VS Code/Jupyter |
+
+### 4. Register the Jupyter Kernel
+
+So VS Code and Jupyter can find this environment:
+```bash
+.venv/bin/python -m ipykernel install --user --name ec-ai-python
+```
+
+> **Windows users:** Use `.venv\Scripts\python -m ipykernel install --user --name ec-ai-python`
+
+Then in VS Code, click the kernel selector (top-right of a notebook) and choose **"ec-ai-python"**.
+
+### 5. Verify Everything Works
+
+Run the notebooks from the `modules/` directory in VS Code or Jupyter. The data files are referenced as `../data/...` (relative to the `modules/` folder).
+
+---
+
 ## How to Use
 
 1. Open the notebooks in Jupyter, VS Code, or Google Colab
