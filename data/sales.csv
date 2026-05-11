@@ -1,0 +1,101 @@
+transaction_id,date,product,category,quantity,unit_price,region,discount
+T036,2024-10-28,Camping Tent 2P,Sports,10,980.62,South,0.0
+T075,2024-08-11,Clean Code,Books,16,351.86,East,0.0
+T084,2024-11-29,Resistance Bands Set,Sports,14,454.84,South,0.0
+T020,2024-04-28,Deep Learning Intro,Books,7,69.83,West,0.0
+T093,2024-07-27,Computer Networks,Books,8,692.46,West,0.0
+T078,2024-05-08,Wireless Mouse,Electronics,8,962.13,Central,0.01
+T089,2024-07-22,Mechanical Keyboard,Electronics,18,383.72,East,0.44
+T044,2024-04-04,Bluetooth Speaker,Electronics,16,119.39,North,0.0
+T019,2024-07-15,Wool Sweater,Clothing,17,747.8,South,0.14
+T055,2024-02-28,Resistance Bands Set,Sports,5,908.95,South,0.0
+T082,2024-05-10,Statistics for ML,Books,1,899.51,West,0.34
+T027,2024-08-08,Camping Tent 2P,Sports,11,468.19,West,0.26
+T020,2024-04-28,Deep Learning Intro,Books,7,69.83,West,0.0
+T016,2024-06-02,Swimming Goggles,Sports,14,330.22,East,0.1
+T049,2024-07-22,Denim Jeans,Clothing,19,692.46,South,0.0
+T010,2024-10-22,USB-C Hub,Electronics,5,812.27,East,0.0
+T100,2024-03-24,Dark Chocolate Bar,Food,19,31.51,East,0.45
+T097,2024-04-30,Mixed Nuts 500g,Food,7,152.46,North,0.0
+T011,2024-02-17,Clean Code,Books,12,812.89,Central,0.0
+T053,2024-01-23,Honey Jar 400g,Food,13,389.75,South,0.0
+T070,2024-07-12,Linear Algebra Refresher,Books,7,980.88,South,0.12
+T032,2024-11-22,Granola 300g,Food,16,628.98,East,0.0
+T031,2024-12-29,Formal Shirt,Clothing,18,19.58,West,0.0
+T088,2024-12-09,Cotton Socks 3-Pack,Clothing,14,75.54,East,0.33
+T063,2024-10-04,Noise-Cancelling Headphones,Electronics,3,239.35,East,0.37
+T062,2024-08-26,Operating Systems,Books,9,326.36,South,0.04
+T098,2024-10-21,Data Structures in C,Books,1,943.08,East,0.43
+T060,2024-07-31,"27"" Monitor",Electronics,14,393.13,Central,0.01
+T043,2024-12-09,Webcam HD,Electronics,12,874.36,West,0.36
+T058,2024-05-04,Operating Systems,Books,20,670.17,East,0.0
+T033,2024-02-11,Python for Data Science,Books,18,57.76,East,0.0
+T006,2024-06-07,Python for Data Science,Books,19,368.66,South,0.0
+T055,2024-02-28,Resistance Bands Set,Sports,5,908.95,South,0.0
+T046,2024-04-22,Wool Sweater,Clothing,9,679.69,South,0.45
+T009,2024-11-29,Laptop Pro 15,Electronics,8,204.15,North,0.12
+T061,2024-11-08,SSD 1TB,Electronics,14,886.81,Central,0.0
+T077,2024-12-25,Granola 300g,Food,1,519.52,South,0.0
+T092,2024-05-26,Formal Shirt,Clothing,11,323.78,Central,0.0
+T039,2024-10-27,Jump Rope,Sports,5,449.86,West,0.0
+T099,2024-06-03,Tennis Racket,Sports,19,783.93,East,0.33
+T001,2024-07-28,Operating Systems,Books,16,295.5,South,0.0
+T007,2024-04-14,Granola 300g,Food,5,928.1,West,0.24
+T042,2024-04-03,The Pragmatic Programmer,Books,12,799.04,East,0.0
+T008,2024-05-30,Olive Oil 1L,Food,14,150.69,Central,0.0
+T072,2024-08-01,Camping Tent 2P,Sports,20,230.32,Central,0.0
+T081,2024-04-18,Dark Chocolate Bar,Food,6,244.42,Central,0.0
+T054,2024-10-02,Camping Tent 2P,Sports,8,491.29,East,0.0
+T085,2024-10-04,AI Ethics,Books,2,192.45,East,0.25
+T002,2024-03-14,Deep Learning Intro,Books,3,472.66,East,0.0
+T092,2024-05-26,Formal Shirt,Clothing,11,323.78,Central,0.0
+T048,2024-12-09,Dumbbell Set 5kg,Sports,19,743.81,South,0.33
+T024,2024-03-28,Denim Jeans,Clothing,20,871.6,Central,0.25
+T059,2024-03-09,Computer Networks,Books,18,597.87,West,0.36
+T014,2024-08-05,Winter Jacket,Clothing,17,467.75,Central,0.0
+T052,2024-08-06,SSD 1TB,Electronics,15,79.04,North,0.0
+T095,2024-03-27,Bluetooth Speaker,Electronics,17,665.86,Central,0.0
+T047,2024-04-01,Organic Coffee 250g,Food,18,131.81,North,0.28
+T030,2024-03-02,Cotton Socks 3-Pack,Clothing,4,744.41,South,0.0
+T035,2024-09-13,Jump Rope,Sports,15,85.95,North,0.37
+T005,2024-03-05,Camping Tent 2P,Sports,11,870.47,West,0.0
+T037,2024-12-25,Clean Code,Books,8,924.36,Central,0.47
+T051,2024-10-30,Yoga Mat,Sports,3,644.88,South,0.09
+T068,2024-02-28,SSD 1TB,Electronics,15,779.34,Central,0.23
+T034,2024-07-13,Mixed Nuts 500g,Food,15,330.87,West,0.0
+T018,2024-01-24,Bluetooth Speaker,Electronics,16,121.41,South,0.07
+T064,2024-05-29,Swimming Goggles,Sports,14,835.71,West,0.0
+T021,2024-06-17,Data Structures in C,Books,10,664.6,West,0.28
+T022,2024-06-06,Camping Tent 2P,Sports,10,442.51,West,0.35
+T083,2024-06-23,Webcam HD,Electronics,16,110.9,East,0.41
+T056,2024-02-20,SSD 1TB,Electronics,6,695.83,North,0.0
+T065,2024-08-06,Jump Rope,Sports,6,745.18,West,0.0
+T094,2024-02-18,Pasta 500g,Food,11,667.11,East,0.34
+T038,2024-06-16,Deep Learning Intro,Books,7,137.36,Central,0.18
+T090,2024-07-15,AI Ethics,Books,8,152.68,North,0.43
+T087,2024-05-17,Yoga Mat,Sports,6,473.67,West,0.09
+T074,2024-07-02,Swimming Goggles,Sports,10,27.8,West,0.0
+T004,2024-07-18,Pasta 500g,Food,6,841.45,South,0.27
+T013,2024-12-17,Granola 300g,Food,12,66.18,East,0.0
+T050,2024-10-22,Formal Shirt,Clothing,2,710.52,North,0.4
+T081,2024-04-18,Dark Chocolate Bar,Food,6,244.42,Central,0.0
+T057,2024-06-01,Dumbbell Set 5kg,Sports,10,571.21,North,0.37
+T017,2024-11-22,Clean Code,Books,1,576.61,West,0.0
+T076,2024-04-20,Cotton Socks 3-Pack,Clothing,5,789.9,Central,0.0
+T015,2024-10-15,Silk Scarf,Clothing,9,768.29,South,0.48
+T029,2024-11-10,Phone Charger,Electronics,10,461.28,North,0.0
+T003,2024-02-17,Mixed Nuts 500g,Food,13,693.63,East,0.18
+T028,2024-11-24,Yoga Mat,Sports,2,788.06,South,0.39
+T096,2024-06-22,SSD 1TB,Electronics,3,145.9,South,0.36
+T086,2024-07-13,Wool Sweater,Clothing,19,305.13,Central,0.15
+T040,2024-06-29,Noise-Cancelling Headphones,Electronics,17,217.45,West,0.0
+T079,2024-07-27,Organic Coffee 250g,Food,12,221.96,West,0.43
+T023,2024-02-26,USB-C Hub,Electronics,1,362.08,South,0.01
+T069,2024-03-04,Linear Algebra Refresher,Books,9,587.04,East,0.0
+T080,2024-10-14,Instant Noodles 5-Pack,Food,8,649.76,West,0.15
+T045,2024-10-27,Pasta 500g,Food,9,460.08,East,0.0
+T012,2024-06-10,Olive Oil 1L,Food,4,970.35,West,0.41
+T091,2024-03-19,Deep Learning Intro,Books,17,965.67,East,0.46
+T073,2024-12-17,Noise-Cancelling Headphones,Electronics,16,833.83,East,0.12
+T071,2024-09-28,Pasta 500g,Food,18,334.8,West,0.0
+T045,2024-10-27,Pasta 500g,Food,9,460.08,East,0.0

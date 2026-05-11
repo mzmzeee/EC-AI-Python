@@ -1,0 +1,51 @@
+student_id,name,age,department,gpa,attendance_rate,credits_completed,scholarship
+S001,Omar,22,AI,2.43,0.87,139,True
+S002,Omar,19,AI,2.45,0.84,50,False
+S003,Rania,21,Math,,0.89,1,False
+S004,Yasmin,23,Data Science,2.12,0.95,86,True
+S005,Mariam,23,Physics,2.14,0.63,117,False
+S006,Emily,19,Physics,2.21,0.84,92,False
+S007,Ali,21,Data Science,,0.9,25,False
+S008,Sara,20,Data Science,2.56,0.85,18,False
+S009,Karim,20,Math,2.48,0.97,56,False
+S010,Hassan,21,CS,3.27,,16,False
+S011,Sarah,21,Math,2.51,0.92,117,True
+S012,Mona,22,Physics,2.49,0.83,92,False
+S013,Jessica,25,CS,3.18,0.9,39,False
+S014,Yasmin,19,Math,2.48,0.98,135,False
+S015,Ahmed,19,Physics,3.05,0.88,87,True
+S016,Lina,18,Data Science,3.72,0.87,129,False
+S017,Ryan,21,AI,,0.7,135,False
+S018,Amal,18,CS,3.56,0.91,78,False
+S019,Khalid,19,Math,3.22,0.96,136,False
+S020,Heba,20,Data Science,2.84,0.84,54,False
+S021,Samir,22,Math,,0.85,112,False
+S022,Karim,21,CS,2.53,0.83,58,False
+S023,Hassan,21,CS,,0.9,18,False
+S024,Amal,21,Physics,1.76,0.93,121,False
+S025,Rania,21,CS,1.93,0.79,108,False
+S026,James,19,CS,2.64,0.76,27,False
+S027,Salma,20,Math,2.04,0.8,19,False
+S028,Jessica,19,CS,,0.82,3,False
+S029,Adam,20,Math,2.67,0.72,102,False
+S030,Ahmed,24,Data Science,3.55,0.88,73,False
+S031,Jessica,25,AI,2.36,0.72,14,False
+S032,Noor,18,CS,2.93,0.81,135,True
+S033,Michael,20,CS,2.94,0.85,60,False
+S034,Sophia,21,Physics,2.79,,107,False
+S035,Noor,22,AI,3.13,0.76,67,False
+S036,Layla,25,Data Science,3.56,0.93,2,False
+S037,Michael,19,Physics,2.01,0.74,89,False
+S038,Sarah,22,AI,2.82,0.82,77,False
+S039,Jessica,18,Physics,,0.85,34,False
+S040,Jessica,20,Data Science,2.41,,87,False
+S041,Saif,25,Data Science,3.49,0.9,23,False
+S042,Ali,18,Data Science,3.21,0.84,67,True
+S043,Yasmin,18,CS,1.85,0.91,38,False
+S044,Mona,20,Math,1.87,0.75,10,False
+S045,Karim,19,Data Science,3.22,0.91,104,False
+S046,Karim,20,AI,3.48,,85,False
+S047,Karim,22,AI,3.3,0.67,9,False
+S048,Lina,23,Data Science,3.3,0.91,57,True
+S049,Aisha,22,CS,3.7,0.74,130,False
+S050,Jessica,23,CS,2.0,0.96,45,False
