@@ -1,6 +1,6 @@
 # Python for AI Students
 
-A condensed, modular Python curriculum designed for AI students. Three modules covering Python foundations through data analysis and visualization.
+A condensed, modular Python curriculum designed for AI students. Seven level-ranked modules covering Python foundations through data analysis, visualization, NumPy, and introductory machine learning.
 
 ## Course Structure
 
@@ -9,13 +9,25 @@ A condensed, modular Python curriculum designed for AI students. Three modules c
 | **Module 1** | Syntax, Variables, Types, Operators, Control Flow, Data Structures, Functions, Scope, List Comprehensions, Lambda | [Module_1_Python_Foundations.ipynb](modules/Module_1_Python_Foundations.ipynb) | [Module_1_Reference.pdf](modules/Module_1_Reference.pdf) | [Module_1_Challenges.ipynb](modules/Module_1_Challenges.ipynb) |
 | **Module 2** | Classes, Inheritance, File I/O, Exceptions, NumPy Arrays, Slicing, Broadcasting | [Module_2_OOP_Files_NumPy.ipynb](modules/Module_2_OOP_Files_NumPy.ipynb) | [Module_2_Reference.pdf](modules/Module_2_Reference.pdf) | [Module_2_Challenges.ipynb](modules/Module_2_Challenges.ipynb) |
 | **Module 3** | Pandas, Data Cleaning, Grouping, Matplotlib, End-to-End Mini-Project | [Module_3_Pandas_Matplotlib_MiniProject.ipynb](modules/Module_3_Pandas_Matplotlib_MiniProject.ipynb) | [Module_3_Reference.pdf](modules/Module_3_Reference.pdf) | [Module_3_Challenges.ipynb](modules/Module_3_Challenges.ipynb) |
+| **Module 4** | NumPy Review and Practice | [Module_4_NumPy_Tutorial.ipynb](modules/Module_4_NumPy_Tutorial.ipynb) | — | — |
+| **Module 5** | Linear Regression Tutorial | [Module_5_Linear_Regression_Tutorial.ipynb](modules/Module_5_Linear_Regression_Tutorial.ipynb) | — | — |
+| **Module 6** | Logistic Regression Lab | [Module_6_Logistic_Regression_Lab.ipynb](modules/Module_6_Logistic_Regression_Lab.ipynb) | — | — |
+| **Module 7** | Heart Disease Classification | [Module_7_Heart_Disease_Classification.ipynb](modules/Module_7_Heart_Disease_Classification.ipynb) | — | — |
+
+Additional standalone exercise:
+
+- [Fuel_Consumption_CO2_Regression.ipynb](modules/Fuel_Consumption_CO2_Regression.ipynb) — fuel consumption and CO2 emissions regression exercise.
 
 ## Data
 
-Sample datasets for Module 3 exercises and mini-project:
+Sample datasets for exercises and mini-projects:
 
 - [data/students.csv](data/students.csv) - 50 student records with GPA, attendance, department
 - [data/sales.csv](data/sales.csv) - 100 sales transactions across categories and regions
+- [data/FuelConsumptionCo2.csv](data/FuelConsumptionCo2.csv) - fuel consumption and CO2 emissions data
+- [data/ex1data1.txt](data/ex1data1.txt) - one-variable linear regression practice data
+- [data/ex1data2.txt](data/ex1data2.txt) - multivariable linear regression practice data
+- [data/heart_cleveland.csv](data/heart_cleveland.csv) - heart disease classification data
 
 ## Resources
 
@@ -76,7 +88,7 @@ uv pip install numpy pandas matplotlib scikit-learn nbconvert nbformat ipykernel
 | `numpy` | Numerical computing (arrays, matrices, math operations) |
 | `pandas` | Data manipulation and analysis (DataFrames) |
 | `matplotlib` | Data visualization and plotting |
-| `scikit-learn` | Machine learning utilities (used in Regression Exercise) |
+| `scikit-learn` | Machine learning utilities (used in regression and classification modules) |
 | `nbconvert` | Convert notebooks to other formats |
 | `nbformat` | Read/write Jupyter notebook files |
 | `ipykernel` | Jupyter kernel for running notebooks in VS Code/Jupyter |
@@ -104,7 +116,7 @@ Run the notebooks from the `modules/` directory in VS Code or Jupyter. The data 
 2. Each module notebook covers concepts with examples and exercises
 3. Each challenges notebook contains programming problems for practice
 4. Reference the PDF documents for detailed concept explanations
-5. Module 3 uses the provided CSV files in the `data/` directory
+5. Modules 3, 5, and 7 use the provided data files in the `data/` directory
 
 ## Credits
 
