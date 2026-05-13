@@ -42,6 +42,9 @@ Sample datasets for exercises and mini-projects:
 - [Python for Scientists](https://nbviewer.org/gist/rpmuller/5920182)
 - [Python Beginners Guide](https://wiki.python.org/moin/BeginnersGuide)
 
+### Local Cheat Sheets
+- [resources/](resources/) - bundled PDF cheat sheets for Python, NumPy, Pandas, Matplotlib, and matrix review.
+
 ### Interactive Tools
 - [Python Tutor](https://pythontutor.com/) - Visualize code execution step by step
 - [Replit](https://replit.com/) - Online Python editor

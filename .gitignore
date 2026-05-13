@@ -9,7 +9,7 @@ wheels/
 # Virtual environments
 .venv
 
-# LaTeX source files (PDFs are kept in root)
+# LaTeX source files
 latex/
 
 # Jupyter checkpoints
@@ -25,6 +25,7 @@ findings.md
 progress.md
 
 books.txt
+filename.png
 plot.png
 sample_plot.png
 sample.txt
